@@ -27,7 +27,7 @@ lazy.nvim:
 
 ```lua
 {
-  "<github-user>/ink.nvim",
+  "SanjayKhatiChhetri/ink.nvim",
   lazy = false,
   priority = 1000,
   opts = {},
